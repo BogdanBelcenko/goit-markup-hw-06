@@ -479,7 +479,6 @@ transition-duration: 250ms;
 .footer{
   padding: 60px;
   padding-left: 215px;
-  width: 1600px;
   background-color:#2F303A;
   align-content: center;
   
@@ -774,7 +773,6 @@ transition-duration: 250ms;
   flex-direction: column;
   padding: 40px;
   width: 528px;
-  height: 581px;
   position: relative;
   top: 50%;
   left: 50%;
